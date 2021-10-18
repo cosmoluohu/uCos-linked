@@ -1,0 +1,11 @@
+..\obj\max6675.o: ..\HARDWARE\MAX6675\max6675.c
+..\obj\max6675.o: ..\HARDWARE\MAX6675\max6675.h
+..\obj\max6675.o: ..\SYSTEM\sys\sys.h
+..\obj\max6675.o: ..\SYSTEM\sys\stm32f4xx.h
+..\obj\max6675.o: ..\SYSTEM\sys\core_cm4.h
+..\obj\max6675.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\max6675.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\max6675.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\max6675.o: ..\SYSTEM\sys\core_cm4_simd.h
+..\obj\max6675.o: ..\SYSTEM\sys\system_stm32f4xx.h
+..\obj\max6675.o: ..\HARDWARE\SPI\spi.h
