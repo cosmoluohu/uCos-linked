@@ -1,2 +1,4 @@
 # uCos-linked
-beihang university handheld Handshank, haptic glove
+BH university handheld Handshank, haptic glove
+
+Based on STM32F407ZG
